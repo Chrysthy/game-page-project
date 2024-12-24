@@ -1,4 +1,4 @@
-<h1 align="center"> Game Page Project </h1> 
+<h1 align="center"> Game Page Project 🎮</h1> 
 
 <p align="center">Project Based on Sword Art Online - Fatal Bullet</p>
 
@@ -32,7 +32,7 @@
 
 ## 💻 Project
 
-- The website was created to practice HTML, CSS, HTMX, JavaScript, Node, pnpm, SQLite3, express skills.
+- The website was created to practice HTML, CSS and JavaScript.
 
 <br>
 
