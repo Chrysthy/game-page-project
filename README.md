@@ -26,15 +26,15 @@
 <br>
 
 ## 🛠 Technologies
-- HTML5
-- CSS 3
-- JavaScript
+- HTML5;
+- CSS 3;
+- JavaScript.
 
 <br>
 
 ## 💻 Project
 
-- The website was created to practice HTML, CSS and JavaScript.
+- The project was created to practice HTML, CSS and JavaScript.
 
 <br>
 
