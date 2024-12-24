@@ -2,6 +2,8 @@
 
 <p align="center">Project Based on Sword Art Online - Fatal Bullet</p>
 
+<br>
+
 <p align="center">  
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
