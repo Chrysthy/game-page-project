@@ -1,4 +1,5 @@
-# Game Page Project
+<h1 align="center"> Game Page Project </h1> 
+
 
 ## Ferramentas Utilizadas
 - HTML5
