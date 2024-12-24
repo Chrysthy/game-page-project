@@ -12,14 +12,22 @@
   <a href="#support">Support</a>  
 </p>
 
+<br>
 
+## 📸 Screenshots
+
+<br>
+
+<p align="center">
+  <img src="src/video/sao-project.gif" alt="video do projeto">
+</p>
+
+<br>
 
 ## 🛠 Technologies
 - HTML5
 - CSS 3
 - JavaScript
-
-<img src="src/video/sao-project.gif" alt="video do projeto">
 
 
 ## 🫱🏻‍🫲🏻 Contributing
