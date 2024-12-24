@@ -8,10 +8,10 @@
 <img src="src/video/sao-project.gif" alt="video do projeto">
 
 
-<br>
+## 🫱🏻‍🫲🏻 Contributing
+<p> Contributions, issues, and feature requests are welcome! Please, feel free to do it! 😉 </p>
 
-<h2> Suggestions </h2>
-<p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
+<br>
 
 <br>
 <hr>
